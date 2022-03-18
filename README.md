@@ -1,6 +1,6 @@
-Hi there, Welcome to my GitHub profile.
+  Hi there, Welcome to my GitHub profile.
 
-- 👋 Hi, I’m Saurabh Baishnab.
+- 👋 I’m Saurabh Baishnab.
 - 👀 I’m interested in Data Analytics, Data Science and Data Engineering. 
 - 🌱 I’m currently learning Machine Learning Techniques, Data Visualization Techniques. 
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/saurabhbaishnab), Gmail(saurabhbaishnabb@gmail.com), Phone No.(4697392192). 
